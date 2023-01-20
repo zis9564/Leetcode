@@ -1,6 +1,8 @@
 package org.leetcode;
 
+import org.leetcode.easy.SquaresOfSortedArray;
 import org.leetcode.easy.TwoSum;
+import org.leetcode.medium.MergeIntervals;
 import org.leetcode.util.Node;
 
 import java.util.Arrays;
@@ -16,10 +18,11 @@ public class Main {
 //        Search2DMatrix obj = new Search2DMatrix();
 //        SearchInRotatedSortedArray obj = new SearchInRotatedSortedArray();
 //        SingleNumber obj = new SingleNumber();
-        TwoSum obj = new TwoSum();
-        System.out.println(Arrays.toString(obj.twoSum(new int[]{2, 7, 11, 15}, 26)));
+//        TwoSum obj = new TwoSum();
+        SquaresOfSortedArray obj = new SquaresOfSortedArray();
+//        MergeIntervals obj = new MergeIntervals();
+        obj.sortedSquares(new int[]{-5,-3,-2,-1});
     }
-
     private static Node[] createTestSource() {
         var n1 = new Node(1, new Node(4, new Node(5)));
         var n2 = new Node(1, new Node(3, new Node(4)));

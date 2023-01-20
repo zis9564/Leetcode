@@ -9,7 +9,8 @@
 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) #easy<br/>
 1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) #easy<br/>
 1. [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) #easy<br/>
-1. [Maximum Swap](https://leetcode.com/problems/maximum-swap/) #medium<br/>
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) #medium<br/>
+2. [Maximum Swap](https://leetcode.com/problems/maximum-swap/) #medium<br/>
 1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) #easy<br/>
 1. [Merge Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) #hard<br/>
 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) #easy<br/>
@@ -26,5 +27,6 @@
 1. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) #easy<br/>
 1. [Single Number](https://leetcode.com/problems/single-number/) #easy<br/>
 1. [SqrtX](https://leetcode.com/problems/sqrtx/) #easy<br/>
+2. [Squares Of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) #easy<br/>
 1. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) #easy<br/>
 1. [Two Sum](https://leetcode.com/problems/two-sum/) #easy<br/>
